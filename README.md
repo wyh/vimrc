@@ -1,7 +1,7 @@
 # vimrc
 Vim configuration for a heavy python3 developer. 
 
-The following features include:
+The following features included:
 
 1. syntax highlight
 2. auto completion
